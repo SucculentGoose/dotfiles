@@ -1,0 +1,2 @@
+colorscheme quantum
+syntax on
