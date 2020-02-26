@@ -92,9 +92,6 @@ export NVM_DIR="$HOME/.nvm"
 
 #export PATH="/Users/jon.vansteen/.gem/ruby/2.3.0/bin"
 
-export ENVIRONMENT=dev
-export PC_PLATFORM_PROPERTY_FILE=~/purecloud/service.properties
-
 alias py=python3
 
 # The next line updates PATH for the Google Cloud SDK.
